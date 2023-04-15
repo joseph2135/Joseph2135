@@ -1,16 +1,26 @@
-### Hi there 👋
+# Joseph Lara
 
-<!--
-**badboy15027/badboy15027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Descripción personal
 
-Here are some ideas to get you started:
+Buenas tardes tengo 35 años soy **Venezolano** pero vivo en **Chile** soy graduado como **Tecnico Superior en Informatica**,  soy habilidoso, amante de la tecnologia y con ganas de aprender mi sueño es ser Programador Full Stack.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Estudios 
+- Tecnico en informatica
+
+## Comandos de consola
+
+Tabla con los comandos y descripción de la función que ejerce dicho comando.
+
+| Comandos | Función |
+| ------ | ------ |
+| ```Ls``` | Este comando nos informa en que carpeta y archivo estamos ubicados. |
+| ```Clear``` | Este comando limpia la terminal de comandos. |
+| ```Mkdir``` | Este comando crea directorios de manera mas facíl y rapída. |
+| ```Code``` | Este nos abre el archivo que seleccionemos de manera mas facíl y rapída.  |
+| ```Cd``` | Este nos ayuda a ubicarnos en el directorio que deseemos. |
+
+### Comandos alias
+| Comando | Alias | Función |
+| ------ | ------ | ------ |
+|```clear```|```cl``` | Este nos facilita a la hora de limpiar nuestra terminal de comandos. |
+|```npm start```|```npms``` | Este nos facilita a la hora de iniciar los servidores de node. |
